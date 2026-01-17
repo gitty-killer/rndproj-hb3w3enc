@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-hb3w3enc"",
+  ""goal"": ""batch normalizer for inventory"",
+  ""language"": ""rust"",
+  ""template"": ""rust-lib""
+}
